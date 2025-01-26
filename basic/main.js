@@ -52,4 +52,4 @@ function animate() {
 }
 
 //call the function
-animate();
+animate();  
